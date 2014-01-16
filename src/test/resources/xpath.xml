@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+	<person>
+		<firstname>token</firstname>
+		<lastname>change me</lastname>
+		<occupation>please</occupation>
+	</person>
+	<person>
+		<firstname>token</firstname>
+		<lastname>dont change me</lastname>
+		<occupation>please</occupation>
+	</person>
+</people>

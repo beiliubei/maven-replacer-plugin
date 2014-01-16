@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+	<person name="token" other="token" />
+	<other name="token" other="token" />
+	<other other="token" />
+</people>
